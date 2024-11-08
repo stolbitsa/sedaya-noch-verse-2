@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>sedaya-noch-verse-2</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="sedaya-noch-chorus"/>
+  <readme>
+    <ru>44368ee89dcaed5310be8caf49b5a9929f6de8c4a78fe48136550747b7f667ce</ru>
+    <en>dbca3117dbf53cd897c5dc0a6872bb7a5b58e6d282da2cb5cd36af131993c372</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="17-noch-verse-2-1.mp4" size="1939269" type="video/mp4" volume="0.77">8af3ed83cc87f8a13f716854f08e3f5bd88de896c0257580ebcf9c773b95b9fa</video>
+    <notes>
+      <note number="1" values="5" ticks="93" durationTicks="31" ppq="96" velocity="0.887"/>
+      <note number="2" values="5" ticks="142" durationTicks="36" ppq="96" velocity="0.787"/>
+      <note number="3" values="5" ticks="189" durationTicks="37" ppq="96" velocity="0.889"/>
+      <note number="4" values="5" ticks="237" durationTicks="86" ppq="96" velocity="0.732"/>
+      <note number="5" values="6" ticks="334" durationTicks="95" ppq="96" velocity="0.897"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="17-noch-verse-2-2.mp4" size="1877785" type="video/mp4" volume="0.783">0ac9786d25e26533cbd71e452073aab7726f75ae045c93ae60ca980a372284a9</video>
+    <notes>
+      <note number="1" values="5" ticks="186" durationTicks="31" ppq="96" velocity="0.887"/>
+      <note number="2" values="5" ticks="235" durationTicks="92" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="425" durationTicks="35" ppq="96" velocity="0.889"/>
+      <note number="4" values="4" ticks="474" durationTicks="86" ppq="96" velocity="0.732"/>
+      <note number="5" values="3" ticks="568" durationTicks="40" ppq="96" velocity="0.897"/>
+      <note number="6" values="5" ticks="618" durationTicks="88" ppq="96" velocity="0.921"/>
+      <note number="7" values="4" ticks="714" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-3.mp4" size="1981539" type="video/mp4" volume="1">1a68d5ddd7042c3ac2f3ae047b5a296fbca758f545a051bb3c2cf6079d5ab378</video>
+    <notes>
+      <note number="1" values="4" ticks="97" durationTicks="31" ppq="96" velocity="0.887"/>
+      <note number="2" values="4" ticks="146" durationTicks="36" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="193" durationTicks="37" ppq="96" velocity="0.889"/>
+      <note number="4" values="5" ticks="246" durationTicks="86" ppq="96" velocity="0.732"/>
+      <note number="5" values="6" ticks="338" durationTicks="142" ppq="96" velocity="0.897"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-4.mp4" size="1955813" type="video/mp4" volume="1">324503285f7c71b4158782c81f863275beddff7a1203086332b8c3a51f09abbe</video>
+    <notes>
+      <note number="1" values="6" ticks="97" durationTicks="31" ppq="96" velocity="0.797"/>
+      <note number="2" values="6" ticks="146" durationTicks="78" ppq="96" velocity="0.887"/>
+      <note number="3" values="5" ticks="242" durationTicks="91" ppq="96" velocity="0.847"/>
+      <note number="4" values="5" ticks="387" durationTicks="36" ppq="96" velocity="0.884"/>
+      <note number="5" values="3" ticks="436" durationTicks="85" ppq="96" velocity="0.747"/>
+      <note number="6" values="1" ticks="530" durationTicks="139" ppq="96" velocity="0.913"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-5.mp4" size="1952598" type="video/mp4" volume="1">0893a00022f8b4454ee067ce534a9f64a657ad92ad44daac25bad0b65813e388</video>
+    <notes>
+      <note number="1" values="5" ticks="98" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="5" ticks="147" durationTicks="33" ppq="96" velocity="0.78"/>
+      <note number="3" values="5" ticks="194" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="3" ticks="291" durationTicks="39" ppq="96" velocity="0.724"/>
+      <note number="5" values="2" ticks="339" durationTicks="90" ppq="96" velocity="0.89"/>
+      <note number="6" values="1" ticks="436" durationTicks="95" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-6.mp4" size="1827997" type="video/mp4" volume="1">8a2b597f5bff0be14121c67c53d3b97000706bb3f8d87079eda5a86039eca00b</video>
+    <notes>
+      <note number="1" values="4" ticks="98" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="4" ticks="147" durationTicks="33" ppq="96" velocity="0.78"/>
+      <note number="3" values="4" ticks="194" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="3" ticks="291" durationTicks="39" ppq="96" velocity="0.717"/>
+      <note number="5" values="5" ticks="339" durationTicks="133" ppq="96" velocity="0.89"/>
+      <note number="6" values="4" ticks="529" durationTicks="95" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-7.mp4" size="1910653" type="video/mp4" volume="1">5cba7709b66d99a9fc7e2c21029fc09b19acb30246ede03a381f41aaafc6d4e1</video>
+    <notes>
+      <note number="1" values="2" ticks="97" durationTicks="31" ppq="96" velocity="0.887"/>
+      <note number="2" values="2" ticks="146" durationTicks="36" ppq="96" velocity="0.787"/>
+      <note number="3" values="2" ticks="193" durationTicks="37" ppq="96" velocity="0.889"/>
+      <note number="4" values="3" ticks="241" durationTicks="86" ppq="96" velocity="0.732"/>
+      <note number="5" values="4" ticks="337" durationTicks="237" ppq="96" velocity="0.897"/>
+      <note number="6" values="5" ticks="626" durationTicks="90" ppq="96" velocity="0.897"/>
+      <note number="7" values="4" ticks="722" durationTicks="82" ppq="96" velocity="0.897"/>
+      <note number="8" values="3" ticks="818" durationTicks="75" ppq="96" velocity="0.897"/>
+      <note number="9" values="3" ticks="915" durationTicks="87" ppq="96" velocity="0.897"/>
+      <note number="10" values="4" ticks="1007" durationTicks="88" ppq="96" velocity="0.897"/>
+      <note number="11" values="5" ticks="1105" durationTicks="94" ppq="96" velocity="0.897"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-8.mp4" size="1926231" type="video/mp4" volume="1">fb58b572050768cdafc5fc8d8fa0b08b4343e34977f2323c33a9929bc85548a1</video>
+    <notes>
+      <note number="1" values="6" ticks="98" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="6" ticks="147" durationTicks="33" ppq="96" velocity="0.78"/>
+      <note number="3" values="6" ticks="194" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="18" ticks="291" durationTicks="39" ppq="96" velocity="0.717"/>
+      <note number="5" values="7" ticks="339" durationTicks="90" ppq="96" velocity="0.89"/>
+      <note number="6" values="4" ticks="436" durationTicks="95" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-9.mp4" size="1899780" type="video/mp4" volume="1">553fd8770af16f707a318071be1708ce3fcf9cc610fc419bbf5e041c24ed9065</video>
+    <notes>
+      <note number="1" values="38" ticks="192" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="38" ticks="241" durationTicks="33" ppq="96" velocity="0.78"/>
+      <note number="3" values="38" ticks="290" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="28" ticks="385" durationTicks="30" ppq="96" velocity="0.717"/>
+      <note number="5" values="28" ticks="434" durationTicks="90" ppq="96" velocity="0.89"/>
+      <note number="6" values="18" ticks="530" durationTicks="139" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-10.mp4" size="1897039" type="video/mp4" volume="1">5c55816042b228fd9e5e675da028f2daf37a664ff969e737783977bc6799673e</video>
+    <notes>
+      <note number="1" values="4" ticks="97" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="4" ticks="146" durationTicks="36" ppq="96" velocity="0.78"/>
+      <note number="3" values="4" ticks="193" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="3" ticks="241" durationTicks="86" ppq="96" velocity="0.724"/>
+      <note number="5" values="5" ticks="336" durationTicks="144" ppq="96" velocity="0.89"/>
+      <note number="6" values="4" ticks="480" durationTicks="41" ppq="96" velocity="0.89"/>
+      <note number="7" values="4" ticks="529" durationTicks="86" ppq="96" velocity="0.89"/>
+      <note number="8" values="3" ticks="673" durationTicks="48" ppq="96" velocity="0.89"/>
+      <note number="9" values="1" ticks="723" durationTicks="90" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+</level>
